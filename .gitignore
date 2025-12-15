@@ -1,0 +1,56 @@
+# Unity / Project ignores
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vs/
+.vscode/
+.idea/
+.plastic/
+
+# Unity generated folders (project may live under Source/, ignore both)
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+MemoryCaptures/
+Snapshots/
+
+Source/Library/
+Source/Temp/
+Source/Obj/
+Source/Build/
+Source/Builds/
+Source/Logs/
+Source/UserSettings/
+Source/MemoryCaptures/
+Source/Snapshots/
+
+# Addressables / Bundles (if used)
+AssetBundles/
+Source/AssetBundles/
+
+# Crash/Profiler
+*.stacktrace
+*.dmp
+*.diag
+
+# Unity auto-generated files (keeping .sln/.csproj tracked per repo state)
+*.pidb
+*.booproj
+*.svd
+*.user
+*.userprefs
+*.unitypackage
+
+# Build outputs in this repo
+# MonoBleedingEdge/
+# Sonic Hypermedia_Data/
+# Sonic.exe
+
+# Ignore CI/automation folder as requested
+.github/

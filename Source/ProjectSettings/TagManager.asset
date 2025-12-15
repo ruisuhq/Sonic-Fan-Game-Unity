@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Piso
+  - Sonic
+  - Ring
+  - Enemigo
+  - BalaEnemigo
+  - Zona de Muerte
+  - Puas
+  - RingPerdido
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - "P\xEDso"
+  - Water
+  - UI
+  - Tunel
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Fondo
+    uniqueID: 2943217831
+    locked: 0
+  - name: Sonic
+    uniqueID: 454642231
+    locked: 0
+  - name: Mapa
+    uniqueID: 4115845625
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

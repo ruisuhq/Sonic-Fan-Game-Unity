@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 012693e9258708b4cb89279c92223417
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Sonic: {fileID: 6242399612037128070, guid: 10a21edc66863c546a698f28c7caf5e8, type: 3}
+  - animator: {instanceID: 0}
+  - renderizadorSpriteEggman: {instanceID: 0}
+  - Entrada: {instanceID: 0}
+  - BolaEggman: {instanceID: 0}
+  - luces: {instanceID: 0}
+  - Anillos: {instanceID: 0}
+  - rb2D: {instanceID: 0}
+  - SonidoLastimado: {instanceID: 0}
+  - SonidoMuerto: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
