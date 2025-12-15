@@ -4,8 +4,8 @@ Proyecto de videojuego 2D tipo plataforma inspirado en Sonic, desarrollado en Un
 
 ## DEMO
 
-- Video (YouTube): https://youtu.be/g7pWSvGMIuM
-<video src="docs\DEMO.mp4" controls title="Sonic Fan-Game DEMO" width="852" height="480"></video>
+<iframe width="1280" height="720" src="https://youtu.be/g7pWSvGMIuM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 - Escenas principales: MenuPrincipal, Nivel 1, Nivel 2 y FinJuego.
 - Flujo: Menú → Niveles → Fin de juego (con transiciones de fade).
